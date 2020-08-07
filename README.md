@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # Readme
 ## 笔记对应视频
 笔记涉及范围大致如下图所示，该笔记在《知识库》里。
-[![视频地址.png](https://s1.ax1x.com/2020/08/07/aRoe2Q.png)](https://imgchr.com/i/aRoe2Q)
+![视频地址.png](https://s1.ax1x.com/2020/08/07/aRoe2Q.png)
 
 ## 笔记简介
 ### 知识库
